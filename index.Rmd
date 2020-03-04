@@ -3,8 +3,12 @@ title: "index"
 author: "Jess Roy"
 date: "2/26/2020"
 output: html_document
+bibliography: data/references.bib
 ---
 
 This is my new lab website! (:
 
+* [Lab2](Lab2_JessRoy_Markdown.html)
+* [Lab3](Lab3_JessRoy.html)
+* [Lab4](Lab4_JessRoy.html)
 * [Lab5](lab5_JessRoy.html) 

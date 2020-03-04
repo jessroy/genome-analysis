@@ -1,0 +1,10 @@
+---
+title: "Lab 6"
+author: "Jess Roy"
+date: "2/26/2020"
+output: html_document
+---
+
+```{r}
+
+```
