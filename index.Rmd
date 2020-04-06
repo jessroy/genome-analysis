@@ -6,7 +6,7 @@ output: html_document
 bibliography: data/references.bib
 ---
 
-This is my new lab website! (:
+This is my new lab website! 
 
 * [Lab2](Lab2_JessRoy_Markdown.html)
 * [Lab3](Lab3_JessRoy.html)
