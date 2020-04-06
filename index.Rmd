@@ -12,3 +12,4 @@ This is my new lab website! (:
 * [Lab3](Lab3_JessRoy.html)
 * [Lab4](Lab4_JessRoy.html)
 * [Lab5](lab5_JessRoy.html) 
+* [Lab9](lab9_JessRoy.html)
